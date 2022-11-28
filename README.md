@@ -1,6 +1,6 @@
-# Python for Scientists
+# Python for CCP
 1-day course, CCP, December 2022\
-**Link:** [bit.ly/](https://bit.ly/)
+**Link:** [https://bit.ly/pythonccp](https://bit.ly/pythonccp)
 
 **Organizer:** Felipe Castro Nepomuceno\
 **Instructors:** Felipe Castro Nepomuceno, Carlos Eduardo Madureira Trufen, Vendula Novosadova
