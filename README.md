@@ -5,12 +5,11 @@
 **Organizer:** Felipe Castro Nepomuceno\
 **Instructors:** Felipe Castro Nepomuceno, Carlos Eduardo Madureira Trufen, Vendula Novosadova
 
-**How to use the files**
+**How to use the files:**
 
-* The numbered files are the ones cointaining the lessons' notebooks
-* With the exception of number 4, all files run on google colab. 
-* Simply click to open them, and click on the "Open in Colab' button.
-* For the files ending with '.py', go through the INSTALLATION.md
+* The numbered files are the ones cointaining the lessons' notebooks.
+* Files with '.ipynb' run on google colab. Simply click to open them, and click on the "Open in Colab' button.
+* Files ending with '.py' run on local Python, go through the INSTALLATION.md and download them.
 
 **Morning (DECEMBER 7, 2022)**
 
