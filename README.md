@@ -7,10 +7,10 @@
 
 **How to use the files**
 
-*The numbered files are the ones cointaining the lessons' notebooks
-*With the exception of number 4, all files run on google colab. 
-*Simply click to open them, and click on the "Open in Colab' button.
-*For the files ending with '.py', go through the INSTALLATION.md
+* The numbered files are the ones cointaining the lessons' notebooks
+* With the exception of number 4, all files run on google colab. 
+* Simply click to open them, and click on the "Open in Colab' button.
+* For the files ending with '.py', go through the INSTALLATION.md
 
 **Morning (DECEMBER 7, 2022)**
 
