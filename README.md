@@ -20,7 +20,7 @@
 * Visualization: pandas and seaborn
 
 
-This course would not be possible if other people would not enable high-quality teaching materials under free licenses. Namely, Petr Simecek and Karla Fejfarová who also worked on a first version of this course. We would like to also thank Jake VanderPlas for Whirlwind Tour Of Python and Tom McCoy for Introduction to Python notebooks, Software Carpentry volunteers for Data Analysis and Visualization in Python for Ecologists, Python as a Second Language and Advanced numpy materials, Czech PyLadies for Datový kurz PyLadies (pandas and visualizations) and BioPython developers for their tutorial. See the full list below.
+This course would not be possible if other people would not enable high-quality teaching materials under free licenses. Namely, Petr Simecek and Karla Fejfarová who also worked on a first version of this course. We would like to also thank Jake VanderPlas for Whirlwind Tour Of Python and Tom McCoy for Introduction to Python notebooks, Software Carpentry volunteers for Data Analysis and Visualization in Python for Ecologists, Python as a Second Language and Advanced numpy materials, Czech PyLadies for Datový kurz PyLadies (pandas and visualizations). See the full list below.
 
 ## Inspiration
 
